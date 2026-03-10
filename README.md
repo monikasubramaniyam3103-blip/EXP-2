@@ -2,7 +2,6 @@
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 Aim:To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
-Sl .no	Apparatus	Range	Type	Quantity
 1	Volt meter	(0-300)V	MC	1
 2	Ammeter	(0-2.5)A	MC	1
 3	Ammeter	(0-5)A	MC	1
