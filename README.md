@@ -1,7 +1,6 @@
 # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
-Aim:
-To conduct load test on separately excited generators and to obtain the characteristics
+Aim:To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
 Sl .no	Apparatus	Range	Type	Quantity
 1	Volt meter	(0-300)V	MC	1
@@ -11,10 +10,8 @@ Sl .no	Apparatus	Range	Type	Quantity
 5	Rheostat		Wire wouned	1
 6	Connecting wires	-	-	As required
 Fuse rating calculation for field and armature:
-No load test
-10 % of rated current (full load current)
-Load test
-125 % of rated current (full load current)
+No load test:10 % of rated current (full load current)
+Load test::125 % of rated current (full load current)
 Precautions
 1.   Motor side field rheostat should be kept at minimum resistance position.
 2.   Generator side field rheostat should be kept at maximum resistance position.
